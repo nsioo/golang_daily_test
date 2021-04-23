@@ -3,11 +3,35 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[155]最小栈.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[155]最小栈.go" />
+              <option name="questionId" value="155" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[1]两数之和.go">
           <value>
             <LeetcodeEditor>
               <option name="path" value="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[1]两数之和.go" />
               <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[200]岛屿数量.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[200]岛屿数量.go" />
+              <option name="questionId" value="200" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[20]有效的括号.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/dd/1gn4rkwn4gs8mfqcm1xp91mh0000gp/T/leetcode/editor/cn/[20]有效的括号.go" />
+              <option name="questionId" value="20" />
             </LeetcodeEditor>
           </value>
         </entry>

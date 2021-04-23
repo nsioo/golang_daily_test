@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"strconv"
 	"strings"
 )
 
@@ -28,4 +29,6 @@ func main()  {
 	testHasPrefix("This is QQMAN", "h")
 
 	testLastIndex("app_id:uid", ":")
+
+	println(strconv.IntSize)
 }
