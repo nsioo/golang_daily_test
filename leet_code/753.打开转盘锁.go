@@ -26,7 +26,7 @@ func OpenLock(deadends []string, target string) int {
 
 			for j := 0; j < 4; j++ {
 				for k := -1; k <= 1; k += 2 {
-					tmp := cur[0:j] + string((cur[j] - '0' + uint8(10 + k)) % 10 + '0') + cur[j + 1:]
+					tmp := cur[0:j] + string((cur[j]-'0'+uint8(10+k))%10+'0') + cur[j+1:]
 					if _, ok := deadMap[tmp]; !ok {
 						if _, ok := visitedMap[tmp]; ok {
 							visitedMap[tmp] = '0'
@@ -41,4 +41,3 @@ func OpenLock(deadends []string, target string) int {
 
 	return -1
 }
-
