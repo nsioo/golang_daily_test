@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a97ccc1-5af3-4176-8230-76e8a17cebca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/test_01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/practise/test_01/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/test_strings/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/practise/test_strings/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the_way_to_go/chapter_7/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/the_way_to_go/chapter_7/slice.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,16 +76,7 @@
       <recent name="$PROJECT_DIR$/leet_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build func.go">
-    <configuration name="go build 设计循环队列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="do_some_fxxking_test" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leet_code/设计循环队列.go" />
-      <package value="do_some_fxxking_test" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build do_some_fxxking_test/the_way_to_go/chapter_7">
     <configuration name="go build do_some_fxxking_test/practise/test_strings" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="do_some_fxxking_test" />
       <working_directory value="$PROJECT_DIR$" />
@@ -103,6 +92,15 @@
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_5/switch.go" />
       <package value="do_some_fxxking_test/the_way_to_go/chapter_5" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build do_some_fxxking_test/the_way_to_go/chapter_7" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_7/slice.go" />
+      <package value="do_some_fxxking_test/the_way_to_go/chapter_7" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build do_some_fxxking_test/the_way_to_go/chapter_7" />
         <item itemvalue="Go Build.go build func.go" />
         <item itemvalue="Go Build.go build switch.go" />
         <item itemvalue="Go Build.go build do_some_fxxking_test/the_way_to_go/chapter_5" />
         <item itemvalue="Go Build.go build do_some_fxxking_test/practise/test_strings" />
-        <item itemvalue="Go Build.go build 设计循环队列.go" />
       </list>
     </recent_temporary>
   </component>
