@@ -1,14 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"do_some_fxxking_test/leet_code"
+	"fmt"
+)
 
 func main()  {
-	x := []int{}
-	x = append(x, 0)
-	x = append(x, 1)
-	x = append(x, 2)
-	y := append(x, 3)
-	z := append(x, 4)
-	fmt.Println(x, y, z)
-	fmt.Printf("%p\n%p\n%p\n", x, y, z)
+	fmt.Println(leet_code.OpenLock([]string{"0201","0101","0102","1212","2002"}, "0202"))
 }

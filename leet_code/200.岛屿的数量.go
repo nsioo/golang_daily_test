@@ -1,4 +1,4 @@
-package main
+package leet_code
 
 func numIslands(grid [][]byte) int {
 	if grid == nil || len(grid) == 0 {
