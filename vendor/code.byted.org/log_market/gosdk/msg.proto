@@ -1,0 +1,12 @@
+syntax="proto3";
+package model;
+
+
+message MsgBatch {
+    repeated Msg msgs=1;
+}
+
+message Msg {
+    bytes msg =1;
+    map<string,string> tags=2;
+}

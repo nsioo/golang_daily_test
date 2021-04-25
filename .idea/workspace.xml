@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a97ccc1-5af3-4176-8230-76e8a17cebca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1.两数之和.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1.两数之和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2.两数相加.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2.两数相加.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/200.岛屿的数量.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/200.岛屿的数量.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/设计循环队列.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/设计循环队列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +44,11 @@
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1617345015" />
+                    <option name="lastUsedInstant" value="1617350819" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1617350780" />
                   </RecentBranch>
                 </list>
               </option>
@@ -62,16 +75,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/the_way_to_go/chapter_5" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/the_way_to_go/chapter_5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leet_code" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build do_some_fxxking_test">
     <configuration name="go build do_some_fxxking_test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="do_some_fxxking_test" />
       <working_directory value="$PROJECT_DIR$" />
@@ -81,9 +100,49 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build do_some_fxxking_test/leet_code" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/leet_code/753.打开转盘锁.go" />
+      <package value="do_some_fxxking_test/leet_code" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build do_some_fxxking_test/the_way_to_go/chapter_7" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_7/slice.go" />
+      <package value="do_some_fxxking_test/the_way_to_go/chapter_7" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build func.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_6/func.go" />
+      <package value="do_some_fxxking_test" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_5/switch.go" />
+      <package value="do_some_fxxking_test" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build do_some_fxxking_test" />
+        <item itemvalue="Go Build.go build do_some_fxxking_test/leet_code" />
+        <item itemvalue="Go Build.go build do_some_fxxking_test/the_way_to_go/chapter_7" />
+        <item itemvalue="Go Build.go build func.go" />
+        <item itemvalue="Go Build.go build switch.go" />
       </list>
     </recent_temporary>
   </component>
@@ -98,9 +157,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/leet_code/2.两数相加.go</url>
-          <line>96</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/practise/test_http/main.go</url>
+          <line>63</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/leet_code/设计循环队列.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/leet_code/753.打开转盘锁.go</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/leet_code/753.打开转盘锁.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
