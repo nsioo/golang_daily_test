@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a97ccc1-5af3-4176-8230-76e8a17cebca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1.两数之和.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1.两数之和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/2.两数相加.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2.两数相加.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/200.岛屿的数量.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/200.岛屿的数量.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/设计循环队列.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/设计循环队列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/test_01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/practise/test_01/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the_way_to_go/chapter_7/slice.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,10 +80,11 @@
       <recent name="$PROJECT_DIR$/the_way_to_go/chapter_5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leet_code/155.最小栈" />
       <recent name="$PROJECT_DIR$/leet_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build do_some_fxxking_test">
+  <component name="RunManager" selected="Go Build.go build do_some_fxxking_test/leet_code/155.最小栈">
     <configuration name="go build do_some_fxxking_test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="do_some_fxxking_test" />
       <working_directory value="$PROJECT_DIR$" />
@@ -109,6 +103,24 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build do_some_fxxking_test/leet_code/155.最小栈" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/leet_code/155.最小栈/155.最小栈.go" />
+      <package value="do_some_fxxking_test/leet_code/155.最小栈" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build do_some_fxxking_test/practise/test_01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="do_some_fxxking_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/practise/test_01/main.go" />
+      <package value="do_some_fxxking_test/practise/test_01" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build do_some_fxxking_test/the_way_to_go/chapter_7" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="do_some_fxxking_test" />
       <working_directory value="$PROJECT_DIR$" />
@@ -118,31 +130,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build func.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="do_some_fxxking_test" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_6/func.go" />
-      <package value="do_some_fxxking_test" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="do_some_fxxking_test" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/the_way_to_go/chapter_5/switch.go" />
-      <package value="do_some_fxxking_test" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build do_some_fxxking_test/leet_code/155.最小栈" />
+        <item itemvalue="Go Build.go build do_some_fxxking_test/the_way_to_go/chapter_7" />
+        <item itemvalue="Go Build.go build do_some_fxxking_test/practise/test_01" />
         <item itemvalue="Go Build.go build do_some_fxxking_test" />
         <item itemvalue="Go Build.go build do_some_fxxking_test/leet_code" />
-        <item itemvalue="Go Build.go build do_some_fxxking_test/the_way_to_go/chapter_7" />
-        <item itemvalue="Go Build.go build func.go" />
-        <item itemvalue="Go Build.go build switch.go" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +169,16 @@
           <url>file://$PROJECT_DIR$/leet_code/753.打开转盘锁.go</url>
           <line>18</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/the_way_to_go/chapter_7/practice_7_9.go</url>
+          <line>54</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/leet_code/155.最小栈/155.最小栈.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 	//body, _ := uuid.GenerateUUID()
 	//fmt.Println(strings.ToUpper(body))
@@ -11,4 +13,11 @@ func main() {
 	//}
 	//
 	//k, ok := test["1"]
+
+	tmp := "123456"
+	tmp1 := tmp[1:]
+	fmt.Printf("%p\n", &tmp)
+	fmt.Printf("%p", &tmp1)
+
+
 }
