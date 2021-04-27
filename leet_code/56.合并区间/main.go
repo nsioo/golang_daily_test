@@ -15,6 +15,7 @@ func merge(intervals [][]int) [][]int {
 		return intervals[i][0] < intervals[j][0]
 	})
 
+
 	res := make([][]int, 0)
 	res = append(res, intervals[0])
 	j := 0
